@@ -1,6 +1,4 @@
 # Local credentials
-.env
-.env.*
 !.env.example
 *.pem
 *.key
@@ -31,3 +29,5 @@ reports/
 vectors/
 *.log
 *.jsonl
+config.bat
+node_modules
